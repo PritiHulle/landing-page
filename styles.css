@@ -150,6 +150,7 @@ nav {
   padding-bottom: 8px;
   color: var(--white);
   transition: 0.3s;
+  font-weight: bold;
 }
 
 .nav__btn {
@@ -163,9 +164,9 @@ nav {
 .header__container p {
   margin-bottom: 1rem;
   font-size: 1.2rem;
-  color: var(--white);
+  color: var(--primary-color-dark);
   text-align: center;
-  opacity: 0.6;
+ 
 }
 
 .header__container h1 {
